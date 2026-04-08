@@ -50,7 +50,7 @@ O projeto adota uma estrutura modular para facilitar a manutenção:
 Solução de RPA projetada para monitorar, baixar e filtrar atos administrativos do Diário Oficial do Estado do Paraná. O sistema utiliza Inteligência Artificial para interpretar textos jurídicos e extrair dados estruturados de interesse da Divisão de Recursos Humanos.
 
 ### 2. Funcionalidades Chave
-* **Web Scraping & OCR**: Download automático com quebra de CAPTCHA baseada em visão computacional.
+* **Web Scraping & OCR**: Download automático com processamento de CAPTCHA baseada em visão computacional.
 * **Filtragem Inteligente**: Localização de páginas via Regex e palavras-chave específicas (IAT, SEAP/QPPE).
 * **Análise com IA**: Integração com Google Gemini 2.5 Flash para extração semântica de nomeações e exonerações.
 * **Relatórios Automáticos**: Geração de arquivos CSV/PDF e envio via e-mail corporativo.
